@@ -31,20 +31,45 @@
 ---
 ### GitHub Stats & Languages
 
-  <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SatharakaNilmantha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatharakaNilmantha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph" />
+<div align="center">
+  <!-- Animated GitHub Stats -->
+  <div class="animated-card">
+    <img src="https://github-readme-stats.vercel.app/api?username=SatharakaNilmantha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph" />
+  </div>
 
-  <div align="center">
-    <!-- Streak Stats with Link to Profile -->
+  <!-- Animated Top Languages -->
+  <div class="animated-card">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatharakaNilmantha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph" />
+  </div>
+
+  <!-- Streak Stats with Link to Profile and Animation -->
+  <div class="animated-card">
     <a href="https://github.com/SatharakaNilmantha" title="Visit SatharakaNilmantha's GitHub Profile">
       <img src="https://streak-stats.demolab.com?user=SatharakaNilmantha&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />
     </a>
   </div>
 </div>
+
+<!-- CSS for Animations -->
+<style>
+  .animated-card {
+    display: inline-block;
+    overflow: hidden;
+    animation: fadeInZoom 1s ease-in-out;
+  }
+
+  @keyframes fadeInZoom {
+    0% {
+      opacity: 0;
+      transform: scale(0.8);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+</style>
+
 
 
 ---
