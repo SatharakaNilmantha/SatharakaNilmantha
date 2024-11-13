@@ -43,6 +43,7 @@
     <a href="https://github.com/SatharakaNilmantha" title="Visit SatharakaNilmantha's GitHub Profile">
       <img src="https://streak-stats.demolab.com?user=SatharakaNilmantha&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />
     </a>
+  </div>
 </div>
 
 
