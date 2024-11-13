@@ -45,27 +45,6 @@
     </a>
 </div>
 
-<!-- CSS for Animations -->
-<style>
-  .animated-card {
-    display: inline-block;
-    overflow: hidden;
-    animation: fadeInZoom 1s ease-in-out;
-  }
-
-  @keyframes fadeInZoom {
-    0% {
-      opacity: 0;
-      transform: scale(0.8);
-    }
-    100% {
-      opacity: 1;
-      transform: scale(1);
-    }
-  }
-</style>
-
-
 
 ---
 ### Connect with me:
