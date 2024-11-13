@@ -1,5 +1,11 @@
 # Hi 👋, I'm Satharaka Nilmantha
 
+###
+
+<img align="center" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 ### Undergrad Computer Engineering Student at University of Jaffna  
 ### Passionate Frontend Developer from Sri Lanka | Exploring Java Spring Boot & React
 
