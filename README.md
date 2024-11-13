@@ -91,21 +91,6 @@
   </a>
 </p>
 
----
-### GitHub Snake Animation
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SatharakaNilmantha/SatharakaNilmantha/output/snake.svg" alt="Snake animation" />
-
----
 
 
-### GitHub Stats
-
-```plaintext
-- Total Stars: 4
-- Total Commits (2023): 153
-- Total PRs: 3
-- Total Issues: 8
 
