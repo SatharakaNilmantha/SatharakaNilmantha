@@ -84,14 +84,13 @@
   </a>
 </p>
 
-
-###
+---
+### GitHub Snake Animation
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/SatharakaNilmantha/SatharakaNilmantha/output/snake.svg" alt="Snake animation" />
 
-###
 ---
 
 
