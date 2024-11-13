@@ -12,6 +12,8 @@
 ### Passionate Frontend Developer from Sri Lanka | Exploring Java Spring Boot & React
 
 </div>
+
+###
 ---
 
 <p align="center"> 
