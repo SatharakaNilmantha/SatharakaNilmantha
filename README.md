@@ -37,13 +37,14 @@
   
   <!-- Top Languages --> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatharakaNilmantha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph" />
+
+  <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=SatharakaNilmantha&theme=blue-green&hide_border=true&border_radius=5" height="220" alt="streak graph" />
 </div>
 
----
-###
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SatharakaNilmantha&theme=blue-green" alt="GitHub Streak" /></a>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=SatharakaNilmantha&theme=dark)](https://git.io/streak-stats)
- 
+  
+</div>
+
 ---
 
 ### Connect with me:
