@@ -40,7 +40,7 @@
 
   <div align="center">
     <!-- Streak Stats with Link to Profile -->
-   <a href="[https://linkedin.com/in/satharaka-nilmantha-aa7b96297](https://streak-stats.demolab.com/?user=SatharakaNilmantha&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3)" target="blank">
+   <a href="[https://linkedin.com/in/satharaka-nilmantha-aa7b96297](https://streak-stats.demolab.com/?user=SatharakaNilmantha&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3)">
   
   </div>
 </div>
