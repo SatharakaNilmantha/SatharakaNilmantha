@@ -22,6 +22,8 @@
   </a> 
 </p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=satharakanilmantha)
+
 ---
 
 - 🌱 I’m currently learning **Java Spring Boot, React & MySQL**
