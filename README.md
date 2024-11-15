@@ -43,6 +43,7 @@
   <img src="https://streak-stats.demolab.com/?user=SatharakaNilmantha&theme=blue-green&hide_border=true&border_radius=5" height="220" alt="streak graph" />
 </div>
 
+   ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=SatharakaNilmantha&theme=react-dark&hide_border=true&area=true)
   
 </div>
 
