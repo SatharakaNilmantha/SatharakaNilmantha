@@ -44,6 +44,7 @@
 </div>
 
    ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatharakaNilmantha&theme=dark-blue-green&hide_border=true&area=true)
+  ![image](https://github.com/SatharakaNilmantha/assets/9c97f184-56af-43f0-b7bb-f9036f362588)
 
   
 </div> 
