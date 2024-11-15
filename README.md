@@ -39,9 +39,7 @@
   <!-- Top Languages --> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatharakaNilmantha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true" height="150" alt="languages graph" />
 
-  <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SatharakaNilmantha&theme=blue-green&hide_border=true&border_radius=5" height="220" alt="streak graph" />
-</div>
+
 
    ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatharakaNilmantha&theme=tokyonight&hide_border=true&area=true
 )
@@ -50,9 +48,11 @@
   
 </div> 
 
-| ![Sachintha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinthanimesh370&show_icons=true&theme=tokyonight) | ![Sachintha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachinthanimesh370&theme=tokyonight) |
+|  <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SatharakaNilmantha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true" height="150" alt="stats graph" />  </div>  | <div align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatharakaNilmantha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true" height="150" alt="languages graph" /> <div align="center">|
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinthanimesh370&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sachinthanimesh370&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+|  <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=SatharakaNilmantha&theme=blue-green&hide_border=true&border_radius=5" height="220" alt="streak graph" />
+</div> |
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=sachinthanimesh370&theme=react-dark&hide_border=true&area=true)
 
