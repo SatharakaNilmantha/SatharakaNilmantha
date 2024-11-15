@@ -32,19 +32,19 @@
 ---
 ### GitHub Stats & Languages
 
-| **GitHub Stats** | **Top Languages** |
+
 |------------------|-------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=SatharakaNilmantha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true" height="150" alt="stats graph" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatharakaNilmantha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true" height="150" alt="languages graph" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=SatharakaNilmantha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true" height="250" alt="stats graph" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatharakaNilmantha&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=blue-green&hide_border=true" height="250" alt="languages graph" /> |
 
 <br />
 
-| **Streak Stats** |
+
 |------------------|
-| <img src="https://streak-stats.demolab.com/?user=SatharakaNilmantha&theme=blue-green&hide_border=true&border_radius=5" height="220" alt="streak graph" /> |
+| <img src="https://streak-stats.demolab.com/?user=SatharakaNilmantha&theme=blue-green&hide_border=true&border_radius=5" height="250" alt="streak graph" /> |
 
 <br />
 
-| **GitHub Activity Graph** |
+
 |---------------------------|
 | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatharakaNilmantha&theme=react-dark&hide_border=true&area=true) |
 
