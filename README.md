@@ -46,9 +46,15 @@
    ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatharakaNilmantha&theme=tokyonight&hide_border=true&area=true
 )
 
-
+  
   
 </div> 
+
+| ![Sachintha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinthanimesh370&show_icons=true&theme=tokyonight) | ![Sachintha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachinthanimesh370&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinthanimesh370&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sachinthanimesh370&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=sachinthanimesh370&theme=react-dark&hide_border=true&area=true)
 
 ---
 
