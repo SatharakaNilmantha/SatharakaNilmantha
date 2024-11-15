@@ -43,8 +43,8 @@
   <img src="https://streak-stats.demolab.com/?user=SatharakaNilmantha&theme=blue-green&hide_border=true&border_radius=5" height="220" alt="streak graph" />
 </div>
 
-   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatharakaNilmantha&theme=dark-blue-green&hide_border=true&area=true)
-  ![image](https://github.com/SatharakaNilmantha/assets/9c97f184-56af-43f0-b7bb-f9036f362588)
+   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatharakaNilmantha&theme=dark&hide_border=true&area=true)
+
 
   
 </div> 
