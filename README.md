@@ -33,19 +33,24 @@
 ### GitHub Stats & Languages
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SatharakaNilmantha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true" height="150" alt="stats graph" />
-  
-  <!-- Top Languages --> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatharakaNilmantha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true" height="150" alt="languages graph" />
+  <!-- GitHub Stats and Top Languages Section (2 Columns) -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=SatharakaNilmantha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark-blue-green&locale=en&hide_border=true" height="150" alt="stats graph" />
+    
+    <!-- Top Languages --> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatharakaNilmantha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark-blue-green&hide_border=true" height="150" alt="languages graph" />
+  </div>
 
-  <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SatharakaNilmantha&theme=blue-green&hide_border=true&border_radius=5" height="220" alt="streak graph" />
-</div>
+  <!-- Streak Stats Section (Single Column) -->
+  <div style="margin-top: 20px;">
+    <img src="https://streak-stats.demolab.com/?user=SatharakaNilmantha&theme=dark-blue-green&hide_border=true&border_radius=5" height="220" alt="streak graph" />
+  </div>
 
-   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatharakaNilmantha&theme=dark-blue-green&hide_border=true&area=true)
-
-  
+  <!-- GitHub Activity Graph Section -->
+  <div style="margin-top: 20px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatharakaNilmantha&theme=dark-blue-green&hide_border=true&area=true" alt="activity graph" />
+  </div>
 </div>
 
 ---
