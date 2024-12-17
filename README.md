@@ -5,13 +5,10 @@
 </div>
 
 ###
+
 <div align="center">
   
-  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com? font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=A+passionate+Computer+Engineer+Student;Competitive+Programmer;Expert+on+Codeforces;Always+learning+new+things"> 
-  </a>
-</p>
-  
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=A+passionate+Computer+Engineer+Student;Competitive+Programmer;Expert+on+Codeforces;Always+learning+new+things"></a>  
 <img align="center" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ### undergraduate Computer Engineering Student at University of Jaffna  
