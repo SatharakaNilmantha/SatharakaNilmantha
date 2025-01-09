@@ -1,6 +1,6 @@
 <div id="top"></div>
-<div align="center" style="background: linear-gradient(90deg, #00BFFF, #28C76F); padding: 20px;">
-    <h1 style="color: white; font-family: Arial, sans-serif;">Welcome to My Profile!</h1>
+<div align="center">
+    <img width="100%" alt="Welcome to My Profile !" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png">
 </div>
 
 
