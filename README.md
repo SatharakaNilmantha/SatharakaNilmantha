@@ -1,6 +1,6 @@
 <div id="top"></div>
 <div align="center">
-    <img width="100%" alt="Welcome to My Profile !" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png">
+    <img width="100%" alt="Welcome to My Profile !"&color=%2300BFFF,%2328C76F src="https://github.com/Carol42/Carol42/blob/main/assets/header.png">
 </div>
 
 
