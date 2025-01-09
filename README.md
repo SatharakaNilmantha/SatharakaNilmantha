@@ -129,7 +129,7 @@
 <!-- GitHub Star link -->
 <p align="center">
   <a href="https://github.com/SatharakaNilmantha/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023 - SSatharakaNilmantha"/>
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023 - SatharakaNilmantha"/>
   </a>
 </p>
 
