@@ -104,7 +104,7 @@
 </p>
 
 
-###
+---
 <!-- GitHub Star link -->
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
