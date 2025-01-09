@@ -129,27 +129,12 @@
 <!-- GitHub Star link -->
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="Thanks for watching my profile!"/>
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/>
   </a>
 </p>
-<p align="center" style="font-family: Arial, sans-serif; font-size: 20px; margin: 20px 0;">
-  <strong id="animated-text" style="color: #0078D4;">Thanks for watching my profile!</strong>
+<p>
+    <strong id="animated-text" style="color: #0078D4;">Thanks for watching my profile!</strong>
 </p>
-
-<style>
-  @keyframes fadeInOut {
-    0%, 100% {
-      opacity: 0;
-    }
-    50% {
-      opacity: 1;
-    }
-  }
-
-  #animated-text {
-    animation: fadeInOut 3s infinite;
-  }
-</style>
 
 </p>
 
