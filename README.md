@@ -14,8 +14,6 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
-
 
 
 </div>
