@@ -14,7 +14,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=650&lines=I'm+Satharaka+Nilmantha;Undergraduate+Computer+Engineering+Student..;University+of+Jaffna;Passionate+Frontend+%26+Backend+Developer;Exploring+Java+Spring+Boot+%26+React;From+Sri+Lanka&color=%2300BFFF,%2328C76F" 
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=650&lines=I'm+Satharaka+Nilmantha;Undergraduate+Computer+Engineering+Student;University+of+Jaffna;Passionate+Frontend+%26+Backend+Developer;Exploring+Java+Spring+Boot+%26+React;From+Sri+Lanka&color=%2300BFFF,%2328C76F" 
              alt="Undergraduate Computer Engineering Student, Passionate Frontend & Backend Developer">
     </a>
 </div>
