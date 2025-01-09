@@ -3,6 +3,15 @@
     <img width="100%" alt="Welcome to My Profile !" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png">
 </div>
 
+
+<div align="center">
+
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;  Hi 👋, I'm Satharaka Nilmantha  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+</div>
+
+###
+
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=650&lines=I'm+Satharaka+Nilmantha;Undergraduate+Computer+Engineering+Student;University+of+Jaffna;Passionate+Frontend+%26+Backend+Developer;Exploring+Java+Spring+Boot+%26+React;From+Sri+Lanka&color=%2300BFFF,%2328C76F" 
