@@ -67,13 +67,7 @@
 
 |  <img src="https://github-readme-stats.vercel.app/api?username=SatharakaNilmantha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="169" alt="stats graph" />  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatharakaNilmantha&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="169" alt="languages graph" /> |
 | --- | 
-|<div align="center">
-    <img 
-        src="https://streak-stats.demolab.com/?user=SatharakaNilmantha&theme=radical&title_color=F3722C&icon_color=F8961E&text_color=FFD60A&bg_color=0,000000,001F3F" 
-        height="250" 
-        alt="GitHub Streak Graph"
-    />
-</div>
+|<div align="center"><img src="https://streak-stats.demolab.com/?user=SatharakaNilmantha&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="230" alt="streak graph" /> </div>
 | 
   
  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatharakaNilmantha&theme=react-dark&hide_border=true&area=true) 
