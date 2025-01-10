@@ -142,4 +142,13 @@
 
 
 
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=660&lines=Thanks+for+your+visit!&color=%2300BFFF,%2328C76F" 
+             alt="thanks for your visit">
+    </a>
+</div>
+
+
+
 
