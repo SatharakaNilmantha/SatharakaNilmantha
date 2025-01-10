@@ -70,12 +70,11 @@
 |<div align="center"><img src="https://streak-stats.demolab.com/?user=SatharakaNilmantha&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,0000FF" height="230" alt="streak graph" /> 
 </div>
 
-  https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark
 
  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatharakaNilmantha&theme=react-dark&hide_border=true&area=true) 
 | --- | 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 ---
 
