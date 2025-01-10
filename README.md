@@ -134,13 +134,6 @@
 </p>
 
 
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=0074D9&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
-    </a>
-</div>
-
-
 
 <div align="center">
     <a href="https://git.io/typing-svg">
