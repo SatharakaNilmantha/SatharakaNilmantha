@@ -71,7 +71,7 @@
 </div>
 
 
- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatharakaNilmantha&theme=react-dark&hide_border=true&area=true) 
+ ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatharakaNilmantha&background=5%2C2E2E2E%2C261E7D&hide_border=true&area=true) 
 | --- | 
 
 
