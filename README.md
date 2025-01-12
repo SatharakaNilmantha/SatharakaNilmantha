@@ -144,7 +144,6 @@
              alt="thanks for your visit">
     </a>
 
-   <p ><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" /></p>
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
