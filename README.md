@@ -34,11 +34,9 @@
 
 <div align="center">
     
-<img align="center" width="300" height="200"   src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img  width="300"   src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
-<p align="center">
-  <img align="center" alt="Coding GIF" width="300" height="200" src="assets/coding.gif"/>
-</p>
+
 
  <p></p>
  <p > <img src="https://komarev.com/ghpvc/?username=satharakanilmantha&label=Profile%20views&color=0e75b6&style=flat" alt="satharakanilmantha" /> </p>
