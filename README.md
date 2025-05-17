@@ -68,9 +68,17 @@
 - 📫 **How to reach me:**  
   Feel free to contact me for project collaborations, development queries, or any tech-related discussion. I'm always open to learning and contributing to exciting software development opportunities.
 
-  - 📧 Email: [satharakanilmantha1@gmail.com](mailto:satharakanilmantha1@gmail.com)  
-  - 🔗 Facebook: [facebook.com/satharakanilmantha](https://facebook.com/satharakanilmantha)  
-  - 📷 Instagram: [instagram.com/satharaka_nilmantha](https://instagram.com/satharaka_nilmantha)
+
+
+   - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:satharakanilmantha1@gmail.com) **Gmail** – [satharakanilmantha1@gmail.com](mailto:satharakanilmantha1@gmail.com)
+
+   - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/satharakanilmantha) **Facebook** – [satharakanilmantha](https://facebook.com/satharakanilmantha)
+
+   - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/satharaka_nilmantha) **Instagram** – [satharaka_nilmantha](https://instagram.com/satharaka_nilmantha)
+
+   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satharaka-nilmantha-aa7b96297/) **LinkedIn** – [satharaka-nilmantha](https://www.linkedin.com/in/satharaka-nilmantha-aa7b96297/)
+
+
 
 
 ---
