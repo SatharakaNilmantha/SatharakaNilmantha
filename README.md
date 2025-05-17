@@ -57,9 +57,20 @@
 
 ---
 
-- 🌱 I’m currently learning **Java Spring Boot, React & MySQL**
-- 💬 Ask me about **Java Spring Boot, React & MySQL**
-- 📫 How to reach me: **satharakanilmantha1@gmail.com**
+-🌱 I’m currently learning Java Spring Boot, React, and MySQL to build full-stack web applications with a focus on scalable backend development and dynamic frontend interfaces.
+
+-💬 Ask me about Java, Spring Boot, RESTful APIs, React components & hooks, MySQL queries, and how to integrate these technologies to create robust and user-friendly web applications.
+
+-👨‍💻 I'm actively working on personal and academic projects to deepen my understanding of modern web development, API security, user authentication, and state management using tools like Spring Security, JWT, and Redux.
+
+-📫 How to reach me:
+Feel free to contact me for project collaborations, development queries, or any tech-related discussion. I'm always open to learning and contributing to exciting software development opportunities.
+
+   📧 Email: satharakanilmantha1@gmail.com
+
+   🔗 Facebook: facebook.com/your-facebook-username
+
+   📷 Instagram: instagram.com/your-instagram-username
 
 ---
 ### GitHub Stats & Languages
