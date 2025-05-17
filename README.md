@@ -112,14 +112,12 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="mailto:satharakanilmantha1@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/mail/000000" alt="Email" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/Satharaka" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
-
-
 
 
 ---
