@@ -70,13 +70,11 @@
 
 
 
-   - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:satharakanilmantha1@gmail.com) **Gmail** – [satharakanilmantha1@gmail.com](mailto:satharakanilmantha1@gmail.com)
-
-   - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/satharakanilmantha) **Facebook** – [satharakanilmantha](https://facebook.com/satharakanilmantha)
-
-   - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/satharaka_nilmantha) **Instagram** – [satharaka_nilmantha](https://instagram.com/satharaka_nilmantha)
-
-   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satharaka-nilmantha-aa7b96297/) **LinkedIn** – [satharaka-nilmantha](https://www.linkedin.com/in/satharaka-nilmantha-aa7b96297/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:satharakanilmantha1@gmail.com)](mailto:satharakanilmantha1@gmail.com) 
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/satharakanilmantha)](https://facebook.com/satharakanilmantha) 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/satharaka_nilmantha)](https://instagram.com/satharaka_nilmantha) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/satharaka-nilmantha-aa7b96297/)](https://www.linkedin.com/in/satharaka-nilmantha-aa7b96297/) 
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&link=https://www.postman.com/)](https://www.postman.com/)
 
 
 
