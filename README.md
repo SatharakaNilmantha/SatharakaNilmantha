@@ -127,7 +127,7 @@
 
 ---
 
-### Languages and Tools:
+### Technologies & Environments:
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 15px; max-width: 600px;">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
