@@ -1,4 +1,10 @@
 <div id="top"></div>
+
+<!-- Animated Background -->
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
+</div>
+
 <div align="center">
     <img width="100%" alt="Welcome to My Profile !" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png">
 </div>
@@ -9,8 +15,6 @@
 
 </div>
 
-
-
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=660&lines=Undergraduate+Computer+Engineering+Student;Passionate+Frontend+%26+Backend+Developer;Exploring+Java+Spring+Boot+%26+React;From+Sri+Lanka&color=%2300BFFF,%2328C76F" 
@@ -18,28 +22,22 @@
     </a>
 </div>
 
-
-
-
-
+<!-- Animated Wave Separator -->
 <div align="center">
-
-        
-
-
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200" />
+    
+    <p></p>
+    <p> 
+        <img src="https://komarev.com/ghpvc/?username=satharakanilmantha&label=Profile%20views&color=0e75b6&style=flat" alt="satharakanilmantha" /> 
+    </p>
 </div>
 
 ###
 
 <div align="center">  
-<img align="center" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-
-
-
-
- <p></p>
- <p > <img src="https://komarev.com/ghpvc/?username=satharakanilmantha&label=Profile%20views&color=0e75b6&style=flat" alt="satharakanilmantha" /> </p>
- 
 ### undergraduate Computer Engineering Student at University of Jaffna  
 ### Passionate Frontend & Backend Developer from Sri Lanka | Exploring Java Spring Boot & React
 
@@ -47,6 +45,11 @@
 
 ###
 ---
+
+<!-- Animated Wave Separator -->
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -57,6 +60,11 @@
 
 
 ---
+
+<!-- Animated Wave Separator -->
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ## 👋 About Me
 
@@ -83,6 +91,11 @@
 
 
 ---
+
+<!-- Animated Wave Separator -->
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 ### GitHub Stats & Languages
 
 
@@ -102,6 +115,11 @@
 
 
 ---
+
+<!-- Animated Wave Separator -->
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ### Connect with me:
 
@@ -125,6 +143,11 @@
 
 
 ---
+
+<!-- Animated Wave Separator -->
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ### Technologies & Environments:
 
@@ -192,6 +215,11 @@
 
 
 ---
+
+<!-- Animated Wave Separator -->
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
 
 <!-- GitHub Star link -->
@@ -201,8 +229,6 @@
   </a>
 </div>
 
-
-
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=660&lines=Thanks+for+your+visit!&color=%2300BFFF,%2328C76F" 
@@ -211,9 +237,10 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
+<!-- Animated Footer -->
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</div>
 
-
-
-
-
+<!-- Final Animated Background -->
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
