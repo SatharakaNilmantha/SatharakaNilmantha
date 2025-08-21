@@ -50,9 +50,8 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=satharakanilmantha" alt="satharakanilmantha" />
-  </a> 
-
+    <img src="https://github-profile-trophy.vercel.app/?username=satharakanilmantha&theme=onedark" alt="satharakanilmantha" />
+  </a>
 </p>
 
 
