@@ -43,12 +43,12 @@
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
     </div>
 
-    <!-- Center GIF -->
+ 
 <div>
         <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200" />
  </div>
 
-    <!-- Right Icons -->
+
  <div style="display: flex; flex-direction: column; gap: 10px;">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="NGINX" width="65" height="65" />
