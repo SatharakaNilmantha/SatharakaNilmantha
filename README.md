@@ -30,45 +30,45 @@
 </div>
 
 ###
+###
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-
-    <!-- Icons + GIF Row -->
-    <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-        <!-- Left Icons -->
-        <div style="display: flex; flex-direction: column; gap: 10px;">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="65" height="65" />
-            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        </div>
-
-        <!-- Center GIF -->
-        <div>
-            <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200" />
-        </div>
-
-        <!-- Right Icons -->
-        <div style="display: flex; flex-direction: column; gap: 10px;">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-            <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="NGINX" width="65" height="65" />
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-        </div>
+<div align="center">  
+    
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <!-- Left Icons -->
+    <div style="display: flex; flex-direction: column; gap: 10px;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
     </div>
 
-    <!-- Profile Views -->
-    <div style="margin-top: 20px;">
-        <img src="https://komarev.com/ghpvc/?username=satharakanilmantha&label=Profile%20views&color=0e75b6&style=flat" alt="satharakanilmantha" />
-    </div>
+    <!-- Center GIF -->
+<div>
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200" />
+ </div>
 
-    <!-- Text -->
-    <div style="text-align: center; margin-top: 10px;">
-        <h3>Undergraduate Computer Engineering Student at University of Jaffna</h3>
-        <h3>Passionate Frontend & Backend Developer from Sri Lanka | Exploring Java Spring Boot & React</h3>
+    <!-- Right Icons -->
+ <div style="display: flex; flex-direction: column; gap: 10px;">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="NGINX" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
     </div>
+</div>
+
+
+
+
+ <p></p>
+ <p > <img src="https://komarev.com/ghpvc/?username=satharakanilmantha&label=Profile%20views&color=0e75b6&style=flat" alt="satharakanilmantha" /> </p>
+ 
+### undergraduate Computer Engineering Student at University of Jaffna  
+### Passionate Frontend & Backend Developer from Sri Lanka | Exploring Java Spring Boot & React
 
 </div>
+
+###
 
 
 ###
