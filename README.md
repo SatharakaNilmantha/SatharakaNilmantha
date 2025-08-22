@@ -103,9 +103,6 @@
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/satharaka-nilmantha-aa7b96297/)](https://www.linkedin.com/in/satharaka-nilmantha-aa7b96297/) 
   [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/Satharaka)](https://www.hackerrank.com/Satharaka)
 
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
-
 ---
 ### GitHub Stats & Languages
 
