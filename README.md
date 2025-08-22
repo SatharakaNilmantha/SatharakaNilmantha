@@ -30,32 +30,34 @@
 </div>
 
 ###
-###
 
 <div align="center">  
     
-<table align="center" cellspacing="20">
-    <tr>
-        <!-- Left Column -->
-        <td valign="top">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="65" height="65" /><br>
-            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /><br>
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br>
+<table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+ <tr>
+  
+   <td valign="top" style="padding-right: 40px;">
+        <div style="display: flex; flex-direction: column; gap: 15px;">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
             <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        </td>
+         </div>
+   </td>
 
-        <!-- Center Column -->
-  <td valign="middle" align="center">
-            <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200" />
-    </td>
+  <td valign="middle" align="center" style="padding: 0 40px;">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200" />
+  </td>
 
-        <!-- Right Column -->
- <td valign="top">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /><br>
-            <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="NGINX" width="65" height="65" /><br>
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /><br>
-            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-        </td>
+       
+  <td valign="top" style="padding-left: 40px;">
+    <div style="display: flex; flex-direction: column; gap: 15px;">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="NGINX" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+    </div>
+  </td>
 </tr>
 </table>
 
