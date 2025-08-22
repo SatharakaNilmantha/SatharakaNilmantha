@@ -80,6 +80,31 @@
 
 
 
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="Bootstrap" width="50" height="50">
+</div>
+<br>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/twilio-icon.svg" alt="Twilio" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="Postman" width="50" height="50">
+</div>
 
 
 
