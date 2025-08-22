@@ -48,9 +48,12 @@
 ###
 ---
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=satharakanilmantha" alt="satharakanilmantha" /> </a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=satharakanilmantha&title=Stars,Followers,Commit,Repositories,Issues" alt="satharakanilmantha" />
+  </a>
 </p>
+
 
 
 ---
