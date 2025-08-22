@@ -51,7 +51,7 @@
 
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"> 
+<a href="#"> 
     <img src="https://github-profile-trophy.vercel.app/?username=satharakanilmantha&row=2&margin-w=10&margin-h=10"  alt="satharakanilmantha" /> </a>
 </p>
 
