@@ -80,36 +80,56 @@
 
 
 
-<div align="center">
-  <!-- Row 1 -->
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50">
+<style>
+  .tech-icon {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    transition: transform 0.3s ease, filter 0.3s ease;
+  }
+
+  /* Hover animation: scale + rotate slightly */
+  .tech-icon:hover {
+    transform: scale(1.2) rotate(15deg);
+    filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));
+  }
+
+  /* Container style for centering */
+  .icon-row {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+  }
+</style>
+
+<div class="icon-row">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" class="tech-icon">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" class="tech-icon">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" class="tech-icon">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" class="tech-icon">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" class="tech-icon">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" class="tech-icon">
 </div>
-<br>
-<div align="center">
-  <!-- Row 2 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50">
-  <img src="https://seeklogo.com/images/T/twilio-logo-5509D0F4A0-seeklogo.com.png" alt="Twilio" width="50" height="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="50" height="50">
-  <img src="https://seeklogo.com/images/P/postman-logo-3F6F3F2A26-seeklogo.com.png" alt="Postman" width="50" height="50">
+
+<div class="icon-row">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" class="tech-icon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" class="tech-icon">
+  <img src="https://seeklogo.com/images/T/twilio-logo-5509D0F4A0-seeklogo.com.png" alt="Twilio" class="tech-icon">
+  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" class="tech-icon">
+  <img src="https://seeklogo.com/images/P/postman-logo-3F6F3F2A26-seeklogo.com.png" alt="Postman" class="tech-icon">
 </div>
-<br>
-<div align="center">
-  <!-- Row 3 -->
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="50" height="50">
+
+<div class="icon-row">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" class="tech-icon">
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" class="tech-icon">
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" class="tech-icon">
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" class="tech-icon">
 </div>
 
 
