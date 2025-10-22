@@ -118,7 +118,7 @@
 
 
 
- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatharakaNilmantha&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&&area=true) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SatharakaNilmantha&theme=react&hide_border=true&background=0D1117&stroke=00abf0&ring=00abf0&fire=00abf0&currStreakLabel=00abf0)
 | --- | 
 
 
