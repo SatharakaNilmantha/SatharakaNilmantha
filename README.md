@@ -216,11 +216,11 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
 
 <!-- GitHub Star link -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/17fc6072-73ed-42b8-a90b-3db6eec1e0e2" width="200" height="200" />
-  <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" width="200" />
-  <img src="https://github.com/user-attachments/assets/d6b3a214-46de-4fa0-b4d0-ebe0389ca286" width="200" height="200" />
-</p>
+<div align="center">
+    <img width="200" height="200" alt="octocat-1763922615447" src="https://github.com/user-attachments/assets/17fc6072-73ed-42b8-a90b-3db6eec1e0e2" />
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023 - SatharakaNilmantha">
+    <img width="200" height="200" alt="octocat-17639215642891" src="https://github.com/user-attachments/assets/d6b3a214-46de-4fa0-b4d0-ebe0389ca286" />
+</div> 
 
 
 
