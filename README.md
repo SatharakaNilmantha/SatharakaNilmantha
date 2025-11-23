@@ -219,6 +219,7 @@
 <div align="center">
   <a href="">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023 - SatharakaNilmantha">
+      <img width="250" height="250" alt="octocat-1763921564289" src="https://github.com/user-attachments/assets/19947136-9382-49af-855f-a3f22df5d9ef" />
   </a>
 </div>
 
@@ -229,7 +230,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=660&lines=Thanks+for+your+visit!&color=%2300BFFF,%2328C76F" 
              alt="thanks for your visit">
     </a>
-   <img width="20" height="20" alt="octocat-1763921564289" src="https://github.com/user-attachments/assets/19947136-9382-49af-855f-a3f22df5d9ef" />
+   
 
 </div>
 
