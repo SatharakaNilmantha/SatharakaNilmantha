@@ -116,6 +116,8 @@
 |<div align="center"><img src="https://streak-stats.demolab.comuser=SatharakaNilmantha&background=5%2C000000%2C130F3F&fire=450CA7&hide_border=false&border=5545E553&ring=7A7ADB&sideNums=C9CCEEDD&currStreakNum=D3D3D3&sideLabels=7D7DE6&dates=FEFEFE&currStreakLabel=9F94FF&stroke=EBEBEB" alt="GitHub Streak" />
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=satharakaNilmantha&background=5%2C000000%2C130F3F&fire=450CA7&hide_border=false&border=5545E553&ring=7A7ADB&sideNums=C9CCEEDD&currStreakNum=D3D3D3&sideLabels=7D7DE6&dates=FEFEFE&currStreakLabel=9F94FF&stroke=EBEBEB" alt="GitHub Streak" /></a>
+
 
 
  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatharakaNilmantha&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&&area=true) 
