@@ -229,6 +229,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=660&lines=Thanks+for+your+visit!&color=%2300BFFF,%2328C76F" 
              alt="thanks for your visit">
     </a>
+   <img width="2000" height="2000" alt="octocat-1763921564289" src="https://github.com/user-attachments/assets/19947136-9382-49af-855f-a3f22df5d9ef" />
 
 </div>
 
