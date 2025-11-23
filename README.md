@@ -127,10 +127,9 @@
 
   <tr>
     <td align="center">
-      <img width="200" height="200" alt="octocat-1763925521271" src="https://github.com/user-attachments/assets/440e1811-8f41-44e8-9ea7-08d6d498ff75" />
+      <img width="150" height="150" alt="octocat-1763925521271" src="https://github.com/user-attachments/assets/440e1811-8f41-44e8-9ea7-08d6d498ff75" />
       <img src="https://streak-stats.demolab.com?user=SatharakaNilmantha&background=5%2C000000%2C130F3F&fire=450CA7&hide_border=false&border=5545E553&ring=7A7ADB&sideNums=C9CCEEDD&currStreakNum=D3D3D3&sideLabels=7D7DE6&dates=FEFEFE&currStreakLabel=9F94FF&stroke=EBEBEB" />
-      <img width="200" height="200" alt="octocat-1763925138865" src="https://github.com/user-attachments/assets/a9b973ef-eef2-4ec5-ae78-06cdd90c00f7" />
-
+      <img width="150" height="150" alt="octocat-1763925138865" src="https://github.com/user-attachments/assets/a9b973ef-eef2-4ec5-ae78-06cdd90c00f7" />
     </td>
   </tr>
 </table>
