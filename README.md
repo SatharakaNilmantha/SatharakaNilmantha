@@ -217,7 +217,7 @@
 
 <!-- GitHub Star link -->
 <div align="center">
-    <img width="2000" height="2000" alt="octocat-1763922615447" src="https://github.com/user-attachments/assets/17fc6072-73ed-42b8-a90b-3db6eec1e0e2" />
+    <img width="250" height="250" alt="octocat-1763922615447" src="https://github.com/user-attachments/assets/17fc6072-73ed-42b8-a90b-3db6eec1e0e2" />
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023 - SatharakaNilmantha">
     <img width="250" height="250" alt="octocat-1763921564289" src="https://github.com/user-attachments/assets/19947136-9382-49af-855f-a3f22df5d9ef" />
 </div>
