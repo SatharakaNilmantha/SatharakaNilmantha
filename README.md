@@ -116,9 +116,23 @@
 |<div align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SatharakaNilmantha&background=5%2C000000%2C130F3F&fire=450CA7&hide_border=false&border=5545E553&ring=7A7ADB&sideNums=C9CCEEDD&currStreakNum=D3D3D3&sideLabels=7D7DE6&dates=FEFEFE&currStreakLabel=9F94FF&stroke=EBEBEB" alt="GitHub Streak" /></a>
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SatharakaNilmantha&background=5%2C000000%2C130F3F&fire=450CA7&hide_border=false&border=5545E553&ring=7A7ADB&sideNums=C9CCEEDD&currStreakNum=D3D3D3&sideLabels=7D7DE6&dates=FEFEFE&currStreakLabel=9F94FF&stroke=EBEBEB" alt="GitHub Streak" /></a>
 
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=SatharakaNilmantha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false&border_color=5545E553" height="169" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatharakaNilmantha&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false&border_color=5545E553&hide=json" height="169" />
+    </td>
+  </tr>
 
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=SatharakaNilmantha&background=5%2C000000%2C130F3F&fire=450CA7&hide_border=false&border=5545E553&ring=7A7ADB&sideNums=C9CCEEDD&currStreakNum=D3D3D3&sideLabels=7D7DE6&dates=FEFEFE&currStreakLabel=9F94FF&stroke=EBEBEB" />
+    </td>
+  </tr>
+</table>
 
 
 
