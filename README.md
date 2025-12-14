@@ -34,23 +34,25 @@
 
 ###
 
-<div align="center">  
-    
+<div align="center">
+
+<!-- Tech Stack & GIF Table -->
 <table align="center" cellspacing="20">
 <tr>
+   <!-- Left Column: Programming Languages & Frameworks -->
    <td valign="top">
-         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="65" height="65" /><br>
-         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /><br>
-         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br>
-         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /><br>
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /><br>
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br>
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
    </td>
 
-       
+   <!-- Middle Column: GIF -->
    <td valign="middle" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200" />
    </td>
 
-     
+   <!-- Right Column: Tools & Backend -->
    <td valign="top">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /><br>
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="NGINX" width="65" height="65" /><br>
@@ -60,15 +62,18 @@
 </tr>
 </table>
 
+<!-- Profile Views -->
+<p></p>
+<p>
+    <img src="https://komarev.com/ghpvc/?username=satharakanilmantha&label=Profile%20views&color=0e75b6&style=flat" alt="satharakanilmantha" />
+</p>
 
-
- <p></p>
- <p > <img src="https://komarev.com/ghpvc/?username=satharakanilmantha&label=Profile%20views&color=0e75b6&style=flat" alt="satharakanilmantha" /> </p>
- 
-### undergraduate Computer Engineering Student at University of Jaffna  
-### Passionate Frontend & Backend Developer from Sri Lanka | Exploring Java Spring Boot & React
+<!-- About Me -->
+<h3>Undergraduate Computer Engineering Student at University of Jaffna</h3>
+<h3>Passionate Full-Stack Developer | Skilled in MERN Stack | Exploring Java Spring Boot & React | Based in Sri Lanka</h3>
 
 </div>
+
 
 ###
 
