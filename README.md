@@ -14,10 +14,11 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=660&lines=Undergraduate+Computer+Engineering+Student;Passionate+Frontend+%26+Backend+Developer;Exploring+Java+Spring+Boot+%26+React;From+Sri+Lanka&color=%2300BFFF,%2328C76F" 
-             alt="Undergraduate Computer Engineering Student, Passionate Frontend & Backend Developer">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=760&lines=Undergraduate+Computer+Engineering+Student;Full-Stack+Developer+%7C+Frontend+%26+Backend;Experienced+with+MERN+Stack+(MongoDB,+Express,+React,+Node.js);Exploring+Java+Spring+Boot+%26+Advanced+React;From+Sri+Lanka&color=%2300BFFF,%2328C76F" 
+             alt="Undergraduate Computer Engineering Student, Full-Stack MERN Developer">
     </a>
 </div>
+
 
 
 
@@ -87,11 +88,11 @@
 
 ## 👋 About Me
 
-- 🌱 I’m currently learning **Java Spring Boot**, **React**, and **MySQL** to build full-stack web applications with a focus on scalable backend development and dynamic frontend interfaces.
+- 🌱 I’m currently learning **Java Spring Boot**, **React**, **MySQL**, and the **MERN Stack (MongoDB, Express.js, React, Node.js)** to build full-stack web applications, with a strong focus on scalable backend development and responsive frontend interfaces.
 
-- 💬 Ask me about **Java**, **Spring Boot**, **RESTful APIs**, **React components & hooks**, **MySQL queries**, and how to integrate these technologies to create robust and user-friendly web applications.
+- 💬 Ask me about **Java**, **Spring Boot**, **RESTful APIs**, **Node.js**, **React components & hooks**, **MySQL queries**, and how to integrate these technologies to create robust, secure, and user-friendly web applications.
 
-- 👨‍💻 I'm actively working on personal and academic projects to deepen my understanding of **modern web development**, **API security**, **user authentication**, and **state management** using tools like **Spring Security**, **JWT**, and **Redux**.
+- 👨‍💻 I’m currently working as a **Software Engineering Intern at Cybermas Solutions (Pvt) Ltd**, where I contribute to real-world software projects and continuously improve my skills in **modern web development**, **API design**, **security**, **user authentication**, and **state management** using tools such as **Spring Security**, **JWT**, **Redux**, and industry best practices.
 
 - 📫 **How to reach me:**  
   Feel free to contact me for project collaborations, development queries, or any tech-related discussion. I'm always open to learning and contributing to exciting software development opportunities.
@@ -103,6 +104,8 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/satharaka_nilmantha)](https://instagram.com/satharaka_nilmantha) 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/satharaka-nilmantha-aa7b96297/)](https://www.linkedin.com/in/satharaka-nilmantha-aa7b96297/) 
   [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/Satharaka)](https://www.hackerrank.com/Satharaka)
+
+
 
 ---
 ### GitHub Stats & Languages
