@@ -70,7 +70,7 @@
 
 <!-- About Me -->
 <h2>Undergraduate Computer Engineering Student | University of Jaffna</h2>
-<h3>Full-Stack Developer | Skilled in MERN Stack | Exploring Java Spring Boot & React | From Sri Lanka</h33>
+<h3>Full-Stack Developer | Skilled in MERN Stack | Exploring Java Spring Boot & React | From Sri Lanka</h3>
 
 
 </div>
