@@ -216,12 +216,17 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
+
+  <!-- Docker (clean SVG) -->
   <a href="https://www.docker.com/products/docker-desktop" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" />
+    <img src="https://svgrepo.com/show/303231/docker-logo.svg" alt="docker" width="40" height="40" />
   </a>
+
+  <!-- NGINX -->
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40" />
   </a>
+
 </p>
 
 
