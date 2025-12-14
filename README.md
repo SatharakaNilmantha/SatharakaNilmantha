@@ -14,7 +14,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=28&center=true&vCenter=true&width=900&lines=Computer+Engineering+Undergraduate;Software+Engineering+Intern+at+Cybermas+Solutions+(Pvt)+Ltd;Frontend+%26+Backend+Developer;Experienced+with+the+MERN+Stack;Exploring+Java+Spring+Boot+%26+RESTful+APIs;Based+in+Sri+Lanka&color=%2300BFFF,%2328C76F"
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=28&center=true&vCenter=true&width=900&lines=Undergraduate+Computer+Engineering+Student;Software+Engineering+Intern+at+Cybermas+Solutions+(Pvt)+Ltd;Passionate+Frontend+%26+Backend+Developer;Skilled+in+MERN+Stack+Development;Exploring+Java+Spring+Boot+%26+RESTful+APIs;Based+in+Sri+Lanka&color=%2300BFFF,%2328C76F"
              alt="Computer Engineering Undergraduate, Software Engineering Intern at Cybermas Solutions, Full-Stack Developer">
     </a>
 </div>
