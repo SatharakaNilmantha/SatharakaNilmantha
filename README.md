@@ -69,8 +69,8 @@
 </p>
 
 <!-- About Me -->
-<h3>Undergraduate Computer Engineering Student | University of Jaffna</h3>
-<h4>Full-Stack Developer | Skilled in MERN Stack | Exploring Java Spring Boot & React | From Sri Lanka</h34>
+<h2>Undergraduate Computer Engineering Student | University of Jaffna</h2>
+<h3>Full-Stack Developer | Skilled in MERN Stack | Exploring Java Spring Boot & React | From Sri Lanka</h33>
 
 
 </div>
