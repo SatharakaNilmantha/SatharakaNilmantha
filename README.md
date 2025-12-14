@@ -219,9 +219,9 @@
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>
-  <a href="https://www.docker.com/products/docker-desktop" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/327352/logo-docker.svg" alt="docker" width="40" height="40" />
-  </a>
+<a href="https://www.docker.com/products/docker-desktop" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
+</a>
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40" />
   </a>
