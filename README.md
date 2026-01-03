@@ -231,8 +231,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
   </a>
  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-ar21.svg"  alt="jmeter" height="40" />
-  </a>
+  <img src="https://cdn.worldvectorlogo.com/logos/jmeter.svg"
+       alt="jmeter" width="40" height="40" />
+</a>
+
 <a href="https://grafana.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" />
 </a>
