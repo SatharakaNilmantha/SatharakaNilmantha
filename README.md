@@ -87,13 +87,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=satharakanilmantha&row=2&margin-w=10&margin-h=10"  alt="satharakanilmantha" /> </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/satharakanilmantha">
-    <img src="https://github-profile-trophy.vercel.app/?username=satharakanilmantha&theme=onedark&row=2&margin-w=10&margin-h=10&no-frame=true" />
-  </a>
-</p>
-
-
 
 ---
 
