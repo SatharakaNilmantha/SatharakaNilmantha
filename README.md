@@ -230,24 +230,9 @@
  <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
   </a>
-<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-  <span style="
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #ffffff;
-    padding: 6px;
-    border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-  ">
-    <img src="https://raw.githubusercontent.com/apache/jmeter/master/xdocs/images/jmeter_square.png"
-         alt="jmeter"
-         width="40"
-         height="40" />
-  </span>
-</a>
-
-
+ <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-ar21.svg"  alt="jmeter" height="40" />
+  </a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" />
 </a>
