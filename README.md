@@ -231,7 +231,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
   </a>
  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/jmeter.svg"
+  <img src="https://jmeter.apache.org/images/jmeter_square.svg"
        alt="jmeter" width="40" height="40" />
 </a>
 
