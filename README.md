@@ -86,7 +86,7 @@
 <a href="#"> 
     <img src="https://github-profile-trophy.vercel.app/?username=satharakanilmantha&row=2&margin-w=10&margin-h=10"  alt="satharakanilmantha" /> </a>
 </p>
-
+<img src="https://github-profile-trophy.vercel.app/?username=satharakanilmantha&row=2&margin-w=10&margin-h=10" />
 
 ---
 
