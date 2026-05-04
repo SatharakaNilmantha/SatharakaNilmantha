@@ -20,14 +20,7 @@
 </div>
 
 
-
-
-
-
-
 <div align="center">
-
-        
 
 
 </div>
@@ -38,19 +31,19 @@
 
 <!-- Tech Stack & GIF Table -->
 <table align="center" cellspacing="20">
-<tr>
+  <tr>
    <!-- Left Column: Programming Languages & Frameworks -->
    <td valign="top">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /><br>
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /><br>
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br>
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-   </td>
+    </td>
 
    <!-- Middle Column: GIF -->
    <td valign="middle" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200" />
-   </td>
+    </td>
 
    <!-- Right Column: Tools & Backend -->
    <td valign="top">
@@ -58,8 +51,8 @@
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="NGINX" width="65" height="65" /><br>
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /><br>
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-   </td>
-</tr>
+    </td>
+   </tr>
 </table>
 
 <!-- Profile Views -->
@@ -91,16 +84,14 @@
 
 ## 👋 About Me
 
-- 🌱 I’m currently learning **Java Spring Boot**, **React**, **MySQL**, and the **MERN Stack (MongoDB, Express.js, React, Node.js)** to build full-stack web applications, with a strong focus on scalable backend development and responsive frontend interfaces.
+- 🌱 I'm currently learning **Java Spring Boot**, **React**, **MySQL**, and the **MERN Stack (MongoDB, Express.js, React, Node.js)** to build full-stack web applications, with a strong focus on scalable backend development and responsive frontend interfaces.
 
 - 💬 Ask me about **Java**, **Spring Boot**, **RESTful APIs**, **Node.js**, **React components & hooks**, **MySQL queries**, and how to integrate these technologies to create robust, secure, and user-friendly web applications.
 
-- 👨‍💻 I’m currently working as a **Software Engineering Intern at Cybermas Solutions (Pvt) Ltd**, where I contribute to real-world software projects and continuously improve my skills in **modern web development**, **API design**, **security**, **user authentication**, and **state management** using tools such as **Spring Security**, **JWT**, **Redux**, and industry best practices.
+- 👨‍💻 I'm currently working as a **Software Engineering Intern at Cybermas Solutions (Pvt) Ltd**, where I contribute to real-world software projects and continuously improve my skills in **modern web development**, **API design**, **security**, **user authentication**, and **state management** using tools such as **Spring Security**, **JWT**, **Redux**, and industry best practices.
 
 - 📫 **How to reach me:**  
   Feel free to contact me for project collaborations, development queries, or any tech-related discussion. I'm always open to learning and contributing to exciting software development opportunities.
-
-
 
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:satharakanilmantha1@gmail.com)](mailto:satharakanilmantha1@gmail.com) 
   [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/satharakanilmantha)](https://facebook.com/satharakanilmantha) 
@@ -108,25 +99,17 @@
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/satharaka-nilmantha-aa7b96297/)](https://www.linkedin.com/in/satharaka-nilmantha-aa7b96297/) 
   [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/Satharaka)](https://www.hackerrank.com/Satharaka)
 
-
-
 ---
+
 ### GitHub Stats & Languages
-
-
-
-
-
 
 |<img src="https://github-readme-stats.vercel.app/api?username=SatharakaNilmantha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false&border_color=5545E553" height="169" alt="stats graph" />    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatharakaNilmantha&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false&border_color=5545E553&hide=json" height="169" alt="languages graph" />|
 | --- | 
 |<div align="center"> <img width="160" height="160" alt="octocat-1763925521271" src="https://github.com/user-attachments/assets/440e1811-8f41-44e8-9ea7-08d6d498ff75" /><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SatharakaNilmantha&background=5%2C000000%2C130F3F&fire=450CA7&hide_border=false&border=5545E553&ring=7A7ADB&sideNums=C9CCEEDD&currStreakNum=D3D3D3&sideLabels=7D7DE6&dates=FEFEFE&currStreakLabel=9F94FF&stroke=EBEBEB" alt="GitHub Streak" /></a><img width="160" height="160" alt="octocat-1763925138865" src="https://github.com/user-attachments/assets/a9b973ef-eef2-4ec5-ae78-06cdd90c00f7" />
 </div>
 
-
  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatharakaNilmantha&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&&area=true) 
 | --- | 
-
 
 ---
 
@@ -149,7 +132,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
-
 
 ---
 
@@ -238,7 +220,6 @@
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" />
 </a>
 
-
 </p>
 
 ---
@@ -251,21 +232,11 @@
     <img width="200" height="200" alt="octocat-17639215642891" src="https://github.com/user-attachments/assets/d6b3a214-46de-4fa0-b4d0-ebe0389ca286" />
 </div> 
 
-
-
-
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=660&lines=Thanks+for+your+visit!&color=%2300BFFF,%2328C76F" 
              alt="thanks for your visit">
     </a>
-   
-
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
-
-
-
-
-
