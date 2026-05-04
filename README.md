@@ -87,6 +87,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=satharakanilmantha&row=2&margin-w=10&margin-h=10"  alt="satharakanilmantha" /> </a>
 </p>
 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=satharakanilmantha&theme=flat&column=7&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+  </a>
+
 ---
 
 ## 👋 About Me
