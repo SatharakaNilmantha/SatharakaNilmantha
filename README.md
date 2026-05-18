@@ -241,6 +241,35 @@
 
 </p>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=idea" alt="intellij" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="jmeter" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40" style="margin-right: 10px;" />
+</p>
+
 ---
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
 
