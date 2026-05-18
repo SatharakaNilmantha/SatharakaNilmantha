@@ -268,6 +268,9 @@
   <img src="https://skillicons.dev/icons?i=jenkins" alt="jmeter" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="twilio" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="40" height="40" />
+  </a>
 </p>
 
 ---
