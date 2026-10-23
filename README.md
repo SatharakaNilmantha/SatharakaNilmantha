@@ -95,7 +95,7 @@
 
 - 💬 Ask me about **Java**, **Spring Boot**, **RESTful APIs**, **Node.js**, **React components & hooks**, **MySQL queries**, and how to integrate these technologies to create robust, secure, and user-friendly web applications.
 
-- 👨‍💻 I’m currently working as a **Software Engineering Intern at Cybermas Solutions (Pvt) Ltd**, where I contribute to real-world software projects and continuously improve my skills in **modern web development**, **API design**, **security**, **user authentication**, and **state management** using tools such as **Spring Security**, **JWT**, **Redux**, and industry best practices.
+- 👨‍💻 I’m currently working as a **Junior Associate Software Engineer at Cyber Mas Solutions (Pvt) Ltd**, where I contribute to real-world software projects and continuously improve my skills in **modern web development**, **API design**, **security**, **user authentication**, and **state management** using tools such as **Spring Security**, **JWT**, **Redux**, and industry best practices.
 
 - 📫 **How to reach me:**  
   Feel free to contact me for project collaborations, development queries, or any tech-related discussion. I'm always open to learning and contributing to exciting software development opportunities.
