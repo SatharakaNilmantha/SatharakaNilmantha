@@ -182,9 +182,7 @@
   <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring cloud / microservices" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://www.vectorlogo.zone/logos/netflix/netflix-icon.svg" alt="netflix eureka" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring api gateway" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="twilio" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="40" height="40" />
 </p>
